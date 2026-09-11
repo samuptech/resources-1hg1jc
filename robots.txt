@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://samuptech.github.io/resources-1hg1jc/sitemap.xml
